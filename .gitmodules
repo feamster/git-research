@@ -394,6 +394,9 @@
 [submodule "old/tor-dns-ndss-2017"]
 	path = old/tor-dns-ndss-2017
 	url = git@github.com:NullHypothesis/tor-dns.git
-[submodule "old/cablelabs"]
-	path = old/cablelabs
-	url = git@bitbucket.org:feamster/cablelabs.git
+[submodule "old/ndt"]
+	path = old/ndt
+	url = git@github.com:ndt-project/ndt.git
+[submodule "old/echo-paper-2015"]
+	path = old/echo-paper-2015
+	url = git@github.com:ccied/echo_paper.git
