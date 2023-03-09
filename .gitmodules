@@ -355,3 +355,45 @@
 [submodule "old/latency-bitag-2022"]
 	path = old/latency-bitag-2022
 	url = git@github.com:bitag-twg-org/latency-explained.git
+[submodule "pcapml-paper"]
+	path = pcapml-paper
+	url = git@github.com:JordanHolland/sound-ta.git
+[submodule "old/echo-dns"]
+	path = old/echo-dns
+	url = git@github.com:ccied/echo_dns_paper.git
+[submodule "old/dns-mba-pam-2021"]
+	path = old/dns-mba-pam-2021
+	url = git@github.com:noise-lab/dns-mba.git
+[submodule "old/campusnet-princeton-proposal"]
+	path = old/campusnet-princeton-proposal
+	url = git@github.com:PrincetonUniversity/campusnet.git
+[submodule "old/go-traffic-analysis"]
+	path = old/go-traffic-analysis
+	url = git@github.com:schmittpaul/traffic-analysis.git
+[submodule "old/iot-inspector-imwut-2020"]
+	path = old/iot-inspector-imwut-2020
+	url = git@github.com:noise-lab/iot-inspector-paper.git
+[submodule "old/onion-usenix-2018"]
+	path = old/onion-usenix-2018
+	url = git@github.com:citp/onion-service-usability.git
+[submodule "old/computer-networks-book"]
+	path = old/computer-networks-book
+	url = git@github.com:noise-lab/computer-networks-book.git
+[submodule "old/censored-planet-dns"]
+	path = old/censored-planet-dns
+	url = git@bitbucket.org:ben-jones/cp-dns-paper.git
+[submodule "old/oblivious-cdn"]
+	path = old/oblivious-cdn
+	url = https://github.com/ae243/obliviousCDN.git
+[submodule "old/ietf-oblivious-dns"]
+	path = old/ietf-oblivious-dns
+	url = git@github.com:amankin/annee-dprive-oblivious-dns.git
+[submodule "old/video-qoe-sigmetrics-2019"]
+	path = old/video-qoe-sigmetrics-2019
+	url = git@github.com:inria-muse/ta_congestion.git
+[submodule "old/tor-dns-ndss-2017"]
+	path = old/tor-dns-ndss-2017
+	url = git@github.com:NullHypothesis/tor-dns.git
+[submodule "old/cablelabs"]
+	path = old/cablelabs
+	url = git@bitbucket.org:feamster/cablelabs.git
