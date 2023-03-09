@@ -1,0 +1,339 @@
+[submodule "paper-skeleton"]
+	path = paper-skeleton
+	url = git@github.com:noise-lab/paper-skeleton.git
+[submodule "service-recognition"]
+	path = service-recognition
+	url = git@github.com:noise-lab/service-recognition.git
+[submodule "privacy-dnn"]
+	path = privacy-dnn
+	url = git@github.com:tejaskannan/privacy-dnn-early-exit-paper.git
+[submodule "content-moderation"]
+	path = content-moderation
+	url = git@github.com:noise-lab/content-moderation.git
+[submodule "vca-qoe"]
+	path = vca-qoe
+	url = git@github.com:agupta13/Inferring-QoE-for-VCAs.git
+[submodule "pcapml"]
+	path = pcapml
+	url = git@github.com:nprint/pcapml.git
+[submodule "censorship-book"]
+	path = censorship-book
+	url = git@github.com:noise-lab/censorship-book.git
+[submodule "old/video-inference-inra"]
+	path = old/video-inference-inria
+	url = https://github.com/wontoniii/video_inference.git
+[submodule "benchmarks-equity"]
+	path = benchmarks-equity
+	url = git@github.com:chicago-cdac/benchmarks-equity.git
+[submodule "old/ocsvm-iot-tmlr-2022"]
+	path = old/ocsvm-iot-tmlr-2022
+	url = git@github.com:noise-lab/ocsvm-iot.git
+[submodule "vca-qoe-paper"]
+	path = vca-qoe-paper
+	url = git@github.com:tarunmangla/2023.xxx.vca-qoe-inference.git
+[submodule "internet-equity"]
+	path = internet-equity
+	url = git@github.com:chicago-cdac/internet-equity-minutes.git
+[submodule "nprint"]
+	path = nprint
+	url = git@github.com:nprint/nprint.git
+[submodule "noise-lab"]
+	path = noise-lab.github.io
+	url = git@github.com:noise-lab/noise-lab.github.io.git
+[submodule "old/bitag-secure-routing-2021"]
+	path = old/bitag-secure-routing-2021
+	url = git@github.com:bitag-twg-org/secure-routing.git
+[submodule "netrics-wifi"]
+	path = netrics-wifi
+	url = git@github.com:chicago-cdac/netrics-wifi.git
+[submodule "vc-autoencoder"]
+	path = vc-autoencoder
+	url = git@github.com:junchenj/Autoencoder-Videoconference-V2.git
+[submodule "old/cox-rebuttal-2019"]
+	path = old/cox-rebuttal-2019
+	url = git@bitbucket.org:feamster/cox-rebuttal-2019-05.git
+[submodule "old/iot-citp"]
+	path = old/iot-citp
+	url = git@github.com:citp/iot-security.git
+[submodule "old/iot-snp-2015"]
+	path = old/iot-snp-2015
+	url = git@github.com:danielwood95/iotsnp.git
+[submodule "old/iot-ci-usenix-2018"]
+	path = old/iot-ci-usenix-2018
+	url = git@github.com:NoahApthorpe/Usenix2018.git
+[submodule "old/vca-imc-2022"]
+	path = old/vca-imc-2022
+	url = git@github.com:tarunmangla/2021.imc.vca.git
+[submodule "old/vpn-usenix-2022"]
+	path = old/vpn-usenix-2022
+	url = git@github.com:noise-lab/vpn-usage-survey.git
+[submodule "old/political-audit-cscw-2021"]
+	path = old/political-audit-cscw-2021
+	url = git@github.com:natematias/CHI-2020-Political-Ad-Audit-Paper.git
+[submodule "old/speedtest-cacm-2020"]
+	path = old/speedtest-cacm-2020
+	url = git@github.com:feamster/cacm-broadband-speedtest.git
+[submodule "old/pgpp"]
+	path = old/pgpp
+	url = git@github.com:USC-NSL/cell-privacy.git
+[submodule "old/netasm-haskell"]
+	path = old/netasm-haskell
+	url = git@github.com:NetASM/NetASM-haskell.git
+[submodule "old/analyticsops"]
+	path = old/analyticsops
+	url = git@github.com:schmittpaul/analyticsops.git
+[submodule "old/spine-foci-2019"]
+	path = old/spine-foci-2019
+	url = git@github.com:noise-lab/spine-foci2019.git
+[submodule "nm-exp-active-netrics"]
+	path = nm-exp-active-netrics
+	url = git@github.com:chicago-cdac/nm-exp-active-netrics.git
+[submodule "old/sdn"]
+	path = old/sdn
+	url = https://github.com/SystemsApproach/sdn.git
+[submodule "old/programmable-measurement"]
+	path = old/programmable-measurement
+	url = git@github.com:PrincetonUniversity/programmable-measurement.git
+[submodule "old/slack-history-export"]
+	path = old/slack-history-export
+	url = git@github.com:andxyz/slack-history-export.git
+[submodule "old/divide-tprc-2022"]
+	path = old/divide-tprc-2022
+	url = git@github.com:tarunmangla/2022.tprc.chicago-digital-divide.git
+[submodule "old/augur-papers"]
+	path = old/augur-papers
+	url = git@github.com:censory/augur_papers.git
+[submodule "old/geolocation-pam-2022"]
+	path = old/geolocation-pam-2022
+	url = git@github.com:JamesSaxon/geolocation-paper.git
+[submodule "old/dog-ndss-2021"]
+	path = old/doh-ndss-2021
+	url = git@github.com:anisenoff/NDSS-WorkshopPaper.git
+[submodule "old/alexa-toit-2021"]
+	path = old/alexa-toit-2021
+	url = git@github.com:noise-lab/alexa-user-study.git
+[submodule "old/courses/coursera-sdn"]
+	path = old/courses/coursera-sdn
+	url = git@github.com:PrincetonUniversity/Coursera-SDN.git
+[submodule "old/netrics-deployment-data"]
+	path = old/netrics-deployment-data
+	url = git@github.com:chicago-cdac/netrics-deployment-data.git
+[submodule "old/nsf-qoe"]
+	path = old/nsf-qoe
+	url = git@bitbucket.org:feamster/nsf-qoe.git
+[submodule "old/courses/ml-networks-ai4all"]
+	path = old/courses/ml-networks-ai4all
+	url = git@github.com:NoahApthorpe/ML-Networks.git
+[submodule "old/net-wellbeing-imwut-2021"]
+	path = old/net-wellbeing-imwut-2021
+	url = git@github.com:jhester/net-wellbeing-imwut21.git
+[submodule "old/osnt-ieee-2014"]
+	path = old/osnt-ieee-2014
+	url = git@github.com:NetFPGA/OSNT-Paper.git
+[submodule "old/iot-cscw-2018-2"]
+	path = old/iot-cscw-2018-2
+	url = git@github.com:NoahApthorpe/CSCW-2018-IoT-Interviews.git
+[submodule "old/labels-tprc-2022"]
+	path = old/labels-tprc-2022
+	url = git@github.com:kyle-macmillan/2022.tprc.labels.git
+[submodule "old/iot-privacy-noah"]
+	path = old/iot-privacy-noah
+	url = git@github.com:NcoderA/IoTprivacy.git
+[submodule "old/country-centrality-compass-2018"]
+	path = old/country-centrality-compass-2018
+	url = git@github.com:ae243/country-centrality.git
+[submodule "lab-guide"]
+	path = lab-guide
+	url = git@github.com:noise-lab/lab-guide.git
+[submodule "old/autoencoder-hotnets"]
+	path = old/autoencoder-hotnets
+	url = git@github.com:junchenj/Autoencoder-Videoconference-HotNets.git
+[submodule "old/twitter-fake-news"]
+	path = old/twitter-fake-news
+	url = git@github.com:noise-lab/twitter-fake-news.git
+[submodule "old/isdx"]
+	path = old/isdx
+	url = git@github.com:sdn-ixp/iSDX.git
+[submodule "old/netassay-sigcomm-2014"]
+	path = old/netassay-sigcomm-2014
+	url = git@github.com:sdonovan1985/netassay-sigcomm-poster.git
+[submodule "old/p4-vswitch"]
+	path = old/p4-vswitch
+	url = git@github.com:PrincetonUniversity/P4-vSwitch.git
+[submodule "old/pathsets-macdavid"]
+	path = old/pathsets-macdavid
+	url = git@github.com:robertmacdavid/PathSets-private.git
+[submodule "old/sdx-jsac"]
+	path = old/sdx-jsac
+	url = git@github.com:agupta13/jsac_sdx.git
+[submodule "old/sdx-wap"]
+	path = old/sdx-wap
+	url = git@github.com:PrincetonUniversity/WAP.git
+[submodule "old/r-encoding"]
+	path = old/r-encoding
+	url = git@github.com:PrincetonUniversity/r-encoding.git
+[submodule "old/sdx-swap"]
+	path = old/sdx-swap
+	url = git@github.com:PrincetonUniversity/SWAP.git
+[submodule "old/sdx-correctness"]
+	path = old/sdx-correctness
+	url = git@github.com:nsg-ethz/sdx_correctness_paper.git
+[submodule "old/flanc"]
+	path = old/flanc
+	url = git@github.com:PrincetonUniversity/FLANC.git
+[submodule "old/pyretic"]
+	path = old/pyretic
+	url = https://github.com/frenetic-lang/pyretic.git
+[submodule "old/resonance"]
+	path = old/resonance
+	url = git@bitbucket.org:resonance_sdn/papers.git
+[submodule "old/paper_skel"]
+	path = old/paper_skel
+	url = https://github.com/efficient/paper_skel.git
+[submodule "old/flowqos-ccr"]
+	path = old/flowqos-ccr
+	url = git@github.com:mseddiki/FlowQoS_CCR_JUNE.git
+[submodule "old/flowqos-ccr-2"]
+	path = old/flowqos-ccr-2
+	url = git@github.com:mseddiki/FlowQoS_CCR_SEPTEMBER_ISSUE_revised.git
+[submodule "old/netassay-hotnets-2014"]
+	path = old/netassay-hotnets-2014
+	url = git@github.com:sdonovan1985/hotnets-2014-paper.git
+[submodule "old/netassay-sosr2015"]
+	path = old/netassay-sosr2015
+	url = git@github.com:sdonovan1985/sosr2015paper.git
+[submodule "old/iot-medical-acm-2017"]
+	path = old/iot-medical-acm-2017
+	url = https://github.com/danielwood95/iot-paper-acm
+[submodule "old/powerline-covert"]
+	path = old/powerline-covert
+	url = git@github.com:PrincetonUniversity/plc_covert_channel.git
+[submodule "old/nprint-paper"]
+	path = old/nprint-paper
+	url = git@github.com:JordanHolland/agnostic-ml.git
+[submodule "old/slick-sosr-2015"]
+	path = old/slick-sosr-2015
+	url = git@github.com:bilalanwer/slick.git
+[submodule "old/rcc-configs"]
+	path = old/rcc-configs
+	url = git@bitbucket.org:feamster/rcc-configs.git
+[submodule "old/noise-www"]
+	path = old/noise-www
+	url = git@github.com:noise-lab/noise-www.git
+[submodule "old/qoe-user-heterogeneity"]
+	path = old/qoe-user-heterogeneity
+	url = git@github.com:hyperpro/qoe_user_heterogeneity_short.git
+[submodule "old/traffic-refinery"]
+	path = old/traffic-refinery
+	url = git@github.com:traffic-refinery/traffic-refinery.git
+[submodule "old/deniable-measurements-hotnets-2015"]
+	path = old/deniable-measurements-hotnets-2015
+	url = git@bitbucket.org:ben-jones/deniable-measurements.git
+[submodule "old/spookyscan-2016"]
+	path = old/spookyscan-2016
+	url = git@github.com:SweetDJ/Spooky.git
+[submodule "old/honest-jones-2016"]
+	path = old/honest-jones-2016
+	url = git@bitbucket.org:ben-jones/honest-paper.git
+[submodule "old/blocker-sathya"]
+	path = old/blocker-sathya
+	url = git@github.com:gsathya/blocker.git
+[submodule "old/expansion-imc-2014"]
+	path = old/expansion-imc-2014
+	url = git@github.com:USC-NSL/IMC2014-ExpansionImpact.git
+[submodule "old/android-performance-2012"]
+	path = old/android-performance-2012
+	url = git@github.com:msp8955/androidperformance.git
+[submodule "old/comcast-pam-2016"]
+	path = old/comcast-pam-2016
+	url = git@github.com:shahifaqeer/comcast-analysis.git
+[submodule "old/android-performance-andrew-2012"]
+	path = old/android-performance-andrew-2012
+	url = git@github.com:ykim320/androidperformance.git
+[submodule "old/iot-ieee-dls-2017"]
+	path = old/iot-ieee-dls-2017
+	url = git@github.com:NoahApthorpe/IoT-DoS-Detection-Rohan.git
+[submodule "old/sonata"]
+	path = old/sonata
+	url = git@github.com:agupta13/vighata.git
+[submodule "old/sonata-nsdi-2018"]
+	path = old/sonata-nsdi-2018
+	url = git@github.com:agupta13/nsdi18.git
+[submodule "netmicroscope.github.io"]
+	path = netmicroscope.github.io
+	url = git@github.com:netmicroscope/netmicroscope.github.io.git
+[submodule "old/feamster-phd-thesis"]
+	path = old/feamster-phd-thesis
+	url = git@github.com:noise-lab/feamster-phd-thesis.git
+[submodule "old/dns-manipulation-pam-2016"]
+	path = old/dns-manipulation-pam-2016
+	url = git@bitbucket.org:ben-jones/dns-manip-paper.git
+[submodule "old/doh-interface-usenix-2023"]
+	path = old/doh-interface-usenix-2023
+	url = git@github.com:anisenoff/DoH-Interface.git
+[submodule "old/iot-inspector"]
+	path = old/iot-inspector
+	url = git@github.com:noise-lab/iot-inspector.git
+[submodule "old/iris-papers"]
+	path = old/iris-papers
+	url = git@github.com:censory/iris_papers.git
+[submodule "old/sonata-dev"]
+	path = old/sonata-dev
+	url = https://github.com/Sonata-Princeton/SONATA-DEV.git
+[submodule "old/tor-sybil-2016"]
+	path = old/tor-sybil-2016
+	url = git@github.com:NullHypothesis/sybil-paper.git
+[submodule "old/censored-planet-2015"]
+	path = old/censored-planet-2015
+	url = git@github.com:SweetDJ/Globe-Censor.git
+[submodule "old/iot-princeton"]
+	path = old/iot-princeton
+	url = git@github.com:PrincetonUniversity/iot.git
+[submodule "old/iot-ci-cscw-2018"]
+	path = old/iot-ci-cscw-2018
+	url = git@github.com:NoahApthorpe/CSCW-2018-IoT-Interviews.git
+[submodule "old/viziot-hester"]
+	path = old/viziot-hester
+	url = git@github.com:jhester/viziot-imwut21.git
+[submodule "old/device-id-danny-2019"]
+	path = old/device-id-danny-2019
+	url = git@github.com:noise-lab/device-id-paper.git
+[submodule "old/iot-relationships-cscw-2019"]
+	path = old/iot-relationships-cscw-2019
+	url = git@github.com:NoahApthorpe/IoT-Relationships-CHI-2021.git
+[submodule "old/speedtest-sigmetrics-2023"]
+	path = old/speedtest-sigmetrics-2023
+	url = git@github.com:kyle-macmillan/2022.imc.speedtest.git
+[submodule "old/odns-pets-2019"]
+	path = old/odns-pets-2019
+	url = git@github.com:schmittpaul/obliviousDNS.git
+[submodule "old/iot-outlier-netml"]
+	path = old/iot-outlier-netml
+	url = git@github.com:noise-lab/iot-outlier-detection.git
+[submodule "old/circumvention-jordan"]
+	path = old/circumvention-jordan
+	url = git@github.com:JordanHolland/circumvention.git
+[submodule "old/heterogeneous-qoe-xu"]
+	path = old/heterogeneous-qoe-xu
+	url = git@github.com:noise-lab/heterogeneous-qoe.git
+[submodule "old/dns-tussle-hotnets-2021"]
+	path = old/dns-tussle-hotnets-2021
+	url = git@github.com:noise-lab/multi-trr.git
+[submodule "old/sdn-book"]
+	path = old/sdn-book
+	url = git@github.com:noise-lab/sdn-book.git
+[submodule "old/smart-tv-tracking-ccs-2019"]
+	path = old/smart-tv-tracking-ccs-2019
+	url = git@github.com:blizzardplus/smart-tv-tracking.git
+[submodule "old/router-fingerprinting-princeton"]
+	path = old/router-fingerprinting-princeton
+	url = git@github.com:JordanHolland/rfp.git
+[submodule "old/covid-iab-2019"]
+	path = old/covid-iab-2019
+	url = git@github.com:jlivingood/IAB-COVID19.git
+[submodule "old/doh-www-2020"]
+	path = old/doh-www-2020
+	url = git@github.com:noise-lab/doh-performance.git
+[submodule "old/covid-net-pam-2020"]
+	path = old/covid-net-pam-2020
+	url = git@github.com:noise-lab/hw-gap.git
