@@ -400,3 +400,213 @@
 [submodule "old/viziot-hester"]
 	path = old/viziot-hester
 	url = git@github.com:jhester/viziot-imwut21.git
+[submodule "consolidation"]
+	path = consolidation
+	url = git@github.com:BrennanSchaffner/consolidation.git
+[submodule "old/pap-packet-transformer"]
+	path = old/pap-packet-transformer
+	url = git@github.com:JordanHolland/pap-packet-transformer.git
+[submodule "old/crossfuzz"]
+	path = old/crossfuzz
+	url = git@github.com:CrossFuzz/hrs-paper.git
+[submodule "old/ci-hcomp-2019"]
+	path = old/ci-hcomp-2019
+	url = git@github.com:yansh/CI-PETS.git
+[submodule "bitag2"]
+	path = bitag2
+	url = git@github.com:bitag-twg-org/bitag2.0.git
+[submodule "old/centinel"]
+	path = old/centinel
+	url = git@github.com:projectbismark/centinel.git
+[submodule "old/active-probing-imc-2015"]
+	path = old/active-probing-imc-2015
+	url = git@github.com:SweetDJ/Tor-GFC.git
+[submodule "old/covid-isp-pam-2021"]
+	path = old/covid-isp-pam-2021
+	url = git@github.com:noise-lab/COVID-study.git
+[submodule "best-practices"]
+	path = best-practices
+	url = git@github.com:noise-lab/best-practices.git
+[submodule "old/ooni-probe"]
+	path = old/ooni-probe
+	url = https://git.torproject.org/ooni-probe.git
+[submodule "old/traffic-refinery-paper-sigmetrics-2021"]
+	path = old/traffic-refinery-paper-sigmetrics-2021
+	url = git@github.com:schmittpaul/netmicroscope_paper.git
+[submodule "old/doh-tprc-2019"]
+	path = old/doh-tprc-2019
+	url = git@github.com:schmittpaul/tprc_doh.git
+[submodule "old/iot-relationships-old"]
+	path = old/iot-relationships-old
+	url = git@github.com:NoahApthorpe/IoT-Relationships-CHI.git
+[submodule "old/iot-cleartext-2018"]
+	path = old/iot-cleartext-2018
+	url = git@github.com:danielph312/CompEnc.git
+[submodule "old/blockpage-imc-2014"]
+	path = old/blockpage-imc-2014
+	url = git@bitbucket.org:phillipagill/blockpage-identification-project.git
+[submodule "old/ietf-censorship-rfc"]
+	path = old/ietf-censorship-rfc
+	url = git@github.com:feamster/rfc-censorship-tech.git
+[submodule "old/courses/ai4all-iot"]
+	path = old/courses/ai4all-iot
+	url = git@github.com:NoahApthorpe/AI4All-IoT.git
+[submodule "old/amir-iot-imwut-2023"]
+	path = old/amir-iot-imwut-2023
+	url = git@github.com:heterogenous-iot/hiot-paper.git
+[submodule "dnssec-measurement"]
+	path = dnssec-measurement
+	url = git@github.com:ekr/dnssec-measurement.git
+[submodule "old/turkmenistan-www-2023"]
+	path = old/turkmenistan-www-2023
+	url = git@github.com:np-tokumei/tm_paper.git
+[submodule "quic-channel"]
+	path = quic-channel
+	url = git@github.com:noise-lab/quic-channel.git
+[submodule "ml-book"]
+	path = ml-book
+	url = git@github.com:SystemsApproach/ml.git
+[submodule "courses/ml-networking"]
+	path = courses/ml-networking
+	url = https://github.com/noise-lab/ml-networking/
+[submodule "courses/ml-systems"]
+	path = courses/ml-systems
+	url = git@github.com:noise-lab/ml-systems.git
+[submodule "courses/ml-systems-solutions"]
+	path = courses/ml-systems-solutions
+	url = git@github.com:noise-lab/ml-systems-solutions.git
+[submodule "tls-embeddings"]
+	path = tls-embeddings
+	url = git@github.com:andrewcchu/tls-embeddings-paper.git
+[submodule "ml-dns-censorship"]
+	path = ml-dns-censorship
+	url = git@github.com:np-tokumei/ML-assisted-DNS-censorship-detection.git
+[submodule "netml"]
+	path = netml
+	url = git@github.com:chicago-cdac/netml.git
+[submodule "shortpaper-template"]
+	path = shortpaper-template
+	url = git@github.com:noise-lab/shortpaper-template.git
+[submodule "dns-measurement"]
+	path = dns-measurement
+	url = git@github.com:noise-lab/dns-measurement.git
+[submodule "old/autoencoder-2022"]
+	path = old/autoencoder-2022
+	url = git@github.com:junchenj/Autoencoder-FullPaper.git
+[submodule "ddns-privacy"]
+	path = ddns-privacy
+	url = git@github.com:noise-lab/ddns-privacy.git
+[submodule "nsf-template"]
+	path = nsf-template
+	url = git@github.com:noise-lab/nsf-template.git
+[submodule "consolidation-paper"]
+	path = consolidation-paper
+	url = git@github.com:SynthiaWang/consolidation_paper.git
+[submodule "old/nsf-cise-anr-2022"]
+	path = old/nsf-cise-anr-2022
+	url = git@github.com:stanford-esrg/nets19-passive-proposal.git
+[submodule "old/faccts-2023"]
+	path = old/faccts-2023
+	url = git@github.com:wontoniii/FACCTS2023.git
+[submodule "old/nsf-cise-autoencoder-2022"]
+	path = old/nsf-cise-autoencoder-2022
+	url = git@github.com:junchenj/Autoencoder-Medium2022.git
+[submodule "old/nsf-satc-privacy-2020"]
+	path = old/nsf-satc-privacy-2020
+	url = git@github.com:chicago-cdac/satc-privacyreal-2020.git
+[submodule "old/nsf-cc-netai-2021"]
+	path = old/nsf-cc-netai-2021
+	url = git@github.com:agupta13/DemocratizeNetAI_CC.git
+[submodule "old/nsf-imrp-2022"]
+	path = old/nsf-imrp-2022
+	url = git@github.com:agupta13/NSF-IMR22-Planning.git
+[submodule "measurement-chatbot"]
+	path = measurement-chatbot
+	url = git@github.com:UChicago-pol-methods/measurement-chatbot.git
+[submodule "old/nsf-medium-videoconf"]
+	path = old/nsf-medium-videoconf
+	url = git@github.com:junchenj/NSF-Medium-VideoConferencing.git
+[submodule "old/nsf-satc-content-2021"]
+	path = old/nsf-satc-content-2021
+	url = git@github.com:ChicagoHAI/satc-2021.git
+[submodule "old/nsf-scc-2021"]
+	path = old/nsf-scc-2021
+	url = git@github.com:noise-lab/nsf-scc-2021.git
+[submodule "old/c3"]
+	path = old/c3
+	url = git@github.com:stanford-esrg/c3.ai-dti-2022.git
+[submodule "old/covid-connectivity-2020"]
+	path = old/covid-connectivity-2020
+	url = git@github.com:chicago-cdac/covid-connectivity-2020.git
+[submodule "old/c3-ai-leftout-2020"]
+	path = old/c3-ai-leftout-2020
+	url = git@github.com:UChicagoSUPERgroup/c3ai2020leftout.git
+[submodule "old/c3-covid-misinfo-2020"]
+	path = old/c3-covid-misinfo-2020
+	url = git@github.com:chicago-cdac/covid-misinfo-2020.git
+[submodule "old/nsf-ai-planning-2020"]
+	path = old/nsf-ai-planning-2020
+	url = git@github.com:chicago-cdac/nsf-ai-planning-2020.git
+[submodule "old/nsf-satc-iot-2017"]
+	path = old/nsf-satc-iot-2017
+	url = git@github.com:princeton-sns/nsf-iot-security.git
+[submodule "old/nsf-satc-dns-2020"]
+	path = old/nsf-satc-dns-2020
+	url = git@github.com:feamster/nsf-satc-dns-2020.git
+[submodule "old/nsf-ccri-netrics-2021"]
+	path = old/nsf-ccri-netrics-2021
+	url = git@github.com:feamster/ccri-netrics-2021.git
+[submodule "old/nsf-satc-frontier-2019"]
+	path = old/nsf-satc-frontier-2019
+	url = git@github.com:chicago-cdac/satc-frontier-2019.git
+[submodule "old/nsf-overcome-2021"]
+	path = old/nsf-overcome-2021
+	url = git@github.com:chicago-cdac/Overcome-2021.git
+[submodule "old/nsf-satc-frontier-2021"]
+	path = old/nsf-satc-frontier-2021
+	url = git@github.com:chicago-cdac/satc-frontiers-2021.git
+[submodule "old/nsf-imr-2022"]
+	path = old/nsf-imr-2022
+	url = git@github.com:chicago-cdac/nsf-imr-2022.git
+[submodule "old/nsf-self-driving-2022"]
+	path = old/nsf-self-driving-2022
+	url = git@github.com:noise-lab/self-driving-nets-large.git
+[submodule "old/faccts2020"]
+	path = old/faccts2020
+	url = git@github.com:wontoniii/FACCTS2020.git
+[submodule "old/nsf-imr-mm-2023"]
+	path = old/nsf-imr-mm-2023
+	url = git@github.com:chicago-cdac/nsf-imr-mm-2023.git
+[submodule "old/nsf-cise-access-2019"]
+	path = old/nsf-cise-access-2019
+	url = git@github.com:feamster/access_nets_proposal_2019.git
+[submodule "old/faccts2021"]
+	path = old/faccts2021
+	url = git@github.com:wontoniii/FACCTS2021.git
+[submodule "old/iotnet-bloomberg-2019"]
+	path = old/iotnet-bloomberg-2019
+	url = git@github.com:feamster/iotnet.git
+[submodule "old/satc-eager-edu-2020"]
+	path = old/satc-eager-edu-2020
+	url = git@github.com:chicago-cdac/satc-eager-edu-2020.git
+[submodule "old/nsf-ai-info-sharing-2020"]
+	path = old/nsf-ai-info-sharing-2020
+	url = git@github.com:gfanti/information-sharing-nsf.git
+[submodule "old/inria-google-2018"]
+	path = old/inria-google-2018
+	url = git@github.com:inria-muse/google-award-2018.git
+[submodule "old/nsf-nets-dns-2018"]
+	path = old/nsf-nets-dns-2018
+	url = git@github.com:schmittpaul/2018nets-small-DNS.git
+[submodule "old/nsf-cic-2020"]
+	path = old/nsf-cic-2020
+	url = git@github.com:chicago-cdac/nsf-cic-2020.git
+[submodule "old/nsf-self-driving-nextg"]
+	path = old/nsf-self-driving-nextg
+	url = git@github.com:agupta13/self-driving-nextg.git
+[submodule "model-drift"]
+	path = model-drift
+	url = git@github.com:noise-lab/model-drift.git
+[submodule "old/nsf-pfi-netmicro-2023"]
+	path = old/nsf-pfi-netmicro-2023
+	url = git@github.com:netmicroscope/PFI-2023.git
