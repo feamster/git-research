@@ -292,9 +292,6 @@
 [submodule "old/iot-ci-cscw-2018"]
 	path = old/iot-ci-cscw-2018
 	url = git@github.com:NoahApthorpe/CSCW-2018-IoT-Interviews.git
-[submodule "old/viziot-hester"]
-	path = old/viziot-hester
-	url = git@github.com:jhester/viziot-imwut21.git
 [submodule "old/device-id-danny-2019"]
 	path = old/device-id-danny-2019
 	url = git@github.com:noise-lab/device-id-paper.git
