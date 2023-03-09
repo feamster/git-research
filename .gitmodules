@@ -397,3 +397,6 @@
 [submodule "old/echo-paper-2015"]
 	path = old/echo-paper-2015
 	url = git@github.com:ccied/echo_paper.git
+[submodule "old/viziot-hester"]
+	path = old/viziot-hester
+	url = git@github.com:jhester/viziot-imwut21.git

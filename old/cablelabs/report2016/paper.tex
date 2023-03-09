@@ -1,0 +1,70 @@
+\pdfoutput=1
+\documentclass[10pt,twocolumn]{confpaper}
+
+%%%%%%%%%%%%%%%%%%%%  INCLUDES  %%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\graphicspath{ {./figures/} }
+
+
+%%%%%%%%%%%%%%%%%%%%  LOCALS  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\system}{{\em NetASM}}
+
+%%%%%%%%%%%%%%%%%%%%  TITLE/AUTHORS  %%%%%%%%%%%%%%%%%%%%%
+
+\date{}
+\title{\ttlfnt{
+\TITLE}}
+\author{
+\aufnt{\AUTHORS} \\
+\affaddr{Princeton University} \\
+{\normalsize \url{http://interconnection.citp.princeton.edu/}}
+\vspace*{-0.1in}
+}
+
+%%%%%%%%%%%%%%%%%%%%  START OF DOCUMENT  %%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\maketitle
+
+%\AcmCopyright
+%\ToAppear
+
+\begin{sloppypar}
+
+\thispagestyle{version}
+\input{summary}
+
+\ifthenelse{\equal{\onlyAbstract}{no}}{% !onlyAbstract
+
+\input{introduction}
+\input{related}
+\input{measurement}
+\input{applicability}
+\input{findings}
+\balance\input{conclusion}\label{lastpage}
+
+\end{sloppypar}
+
+%\vspace{-0.1in}
+\section*{Acknowledgments}
+We thank Steve Bauer, Jennifer Rexford, and Walter
+Willinger for their feedback on this paper.  This work was made possible
+with support from CableLabs.
+
+\footnotesize
+%\setlength{\bibsep}{0pt}
+\setlength{\parskip}{-1pt}
+\setlength{\itemsep}{-1pt}
+% \footnotesize % SPACE
+\balance\bibliography{paper}
+\bibliographystyle{abbrv}
+%\bibliographystyle{abbrvnat_noaddr} % SPACE
+%\theendnotes % ENDNOTES
+}{% onlyAbstract
+}
+
+\end{document}
+
+%%%%%%%%%%%%%%%%%%%%  END OF DOCUMENT  %%%%%%%%%%%%%%%%%%%%
