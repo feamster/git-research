@@ -337,3 +337,21 @@
 [submodule "old/covid-net-pam-2020"]
 	path = old/covid-net-pam-2020
 	url = git@github.com:noise-lab/hw-gap.git
+[submodule "old/containet"]
+	path = old/containet
+	url = https://snrism@bitbucket.org/snrism/containet.git
+[submodule "old/oit-dns-princeton"]
+	path = old/oit-dns-princeton
+	url = git@github.com:shahifaqeer/oit-dns.git
+[submodule "old/disinformation-foci-2020"]
+	path = old/disinformation-foci-2020
+	url = git@github.com:ahounsel/disinfo-infra.git
+[submodule "old/broadband-tprc-2021"]
+	path = old/broadband-tprc-2021
+	url = git@github.com:noise-lab/tprc2021-broadband.git
+[submodule "old/comcast-analysis-2015"]
+	path = old/comcast-analysis-2015
+	url = git@github.com:PrincetonUniversity/comcast-analysis.git
+[submodule "old/latency-bitag-2022"]
+	path = old/latency-bitag-2022
+	url = git@github.com:bitag-twg-org/latency-explained.git
