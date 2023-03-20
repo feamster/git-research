@@ -39,18 +39,18 @@ directory in .git/modules/, and remove the submodule's entry in the file
 1. Navigate to the root directory of the repository that contains the
    submodule.
 
-2. Next, you need to update the submodule’s configuration file, which is located
-   at .gitmodules in the root directory of the repository. Open this file and find
+2. Update the submodule’s configuration file, which is located
+   at `.gitmodules` in the root directory of the repository. Open this file and find
    the entry for the submodule that you want to move.
 
-3. In the .gitmodules file, change the path parameter of the submodule to the new
+3. In the `.gitmodules` file, change the path parameter of the submodule to the new
    subdirectory where you want to move it. Save the changes to the file.
 
-4. Move the actual submodule directory to the new location using git mv
-   old_submodule_dir new_subdirectory/. If you receive an error saying that the
+4. Move the actual submodule directory to the new location using `git mv
+   old_submodule_dir new_subdirectory/`. If you receive an error saying that the
    file is unmerged, try git add the file and then run the git mv command again.
 
-5. Commit the changes using git commit -m "Moved submodule to new subdirectory".
+5. Commit the changes using `git commit -m "Moved submodule to new subdirectory"`.
 
 6. Push the changes to the remote repository using git push.
 
