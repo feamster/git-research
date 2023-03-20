@@ -52,7 +52,7 @@ directory in .git/modules/, and remove the submodule's entry in the file
 
 5. Commit the changes using `git commit -m "Moved submodule to new subdirectory"`.
 
-6. Push the changes to the remote repository using git push.
+6. Push the changes to the remote repository using `git push`.
 
 
 
