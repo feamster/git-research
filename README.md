@@ -48,7 +48,7 @@ directory in .git/modules/, and remove the submodule's entry in the file
 
 4. Move the actual submodule directory to the new location using `git mv
    old_submodule_dir new_subdirectory/`. If you receive an error saying that the
-   file is unmerged, try git add the file and then run the git mv command again.
+   file is unmerged, try `git add` the file and then run the `git mv` command again.
 
 5. Commit the changes using `git commit -m "Moved submodule to new subdirectory"`.
 
