@@ -619,3 +619,12 @@
 [submodule "big-ideas-2023"]
 	path = big-ideas-2023
 	url = git@github.com:chicago-cdac/big-ideas-2023.git
+[submodule "iei-cacm-2023"]
+	path = iei-cacm-2023
+	url = git@github.com:chicago-cdac/iei-cacm-2023.git
+[submodule "internet-equity.github.io"]
+	path = internet-equity.github.io
+	url = git@github.com:internet-equity/internet-equity.github.io.git
+[submodule "smart-tv-attack"]
+	path = smart-tv-attack
+	url = git@github.com:tejaskannan/smart-tv-acoustic-attack-paper.git
