@@ -628,3 +628,9 @@
 [submodule "smart-tv-attack"]
 	path = smart-tv-attack
 	url = git@github.com:tejaskannan/smart-tv-acoustic-attack-paper.git
+[submodule "nsf-nets-governance-2023"]
+	path = nsf-nets-governance-2023
+	url = git@github.com:noise-lab/nsf-nets-governance-2023.git
+[submodule "privacy-dnn-ccs"]
+	path = privacy-dnn-ccs
+	url = git@github.com:tejaskannan/early-exit-privacy-paper-ccs.git
