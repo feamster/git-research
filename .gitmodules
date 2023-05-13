@@ -634,6 +634,3 @@
 [submodule "privacy-dnn-ccs"]
 	path = privacy-dnn-ccs
 	url = git@github.com:tejaskannan/early-exit-privacy-paper-ccs.git
-[submodule "netrics"]
-	path = netrics
-	url = git@github.com:internet-equity/netrics.git
