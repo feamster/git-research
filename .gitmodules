@@ -500,7 +500,7 @@
 	path = nsf-template
 	url = git@github.com:noise-lab/nsf-template.git
 [submodule "consolidation-paper"]
-	path = consolidation-paper
+	path = old/consolidation-2022
 	url = git@github.com:SynthiaWang/consolidation_paper.git
 [submodule "old/nsf-cise-anr-2022"]
 	path = old/nsf-cise-anr-2022
