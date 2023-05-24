@@ -634,3 +634,6 @@
 [submodule "privacy-dnn-ccs"]
 	path = privacy-dnn-ccs
 	url = git@github.com:tejaskannan/early-exit-privacy-paper-ccs.git
+[submodule "consolidation-paper-2023"]
+	path = consolidation-paper-2023
+	url = git@github.com:SynthiaWang/consolidation-paper-2023.git
