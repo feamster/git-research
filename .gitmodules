@@ -637,3 +637,6 @@
 [submodule "consolidation-paper-2023"]
 	path = consolidation-paper-2023
 	url = git@github.com:SynthiaWang/consolidation-paper-2023.git
+[submodule "nsf-adaptive-models-2023"]
+	path = nsf-adaptive-models-2023
+	url = git@github.com:noise-lab/nsf-adaptive-models-2023.git
