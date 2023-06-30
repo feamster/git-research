@@ -640,3 +640,6 @@
 [submodule "nsf-adaptive-models-2023"]
 	path = nsf-adaptive-models-2023
 	url = git@github.com:noise-lab/nsf-adaptive-models-2023.git
+[submodule "net-diffusion"]
+	path = net-diffusion
+	url = git@github.com:noise-lab/net-diffusion.git
