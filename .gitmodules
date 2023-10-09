@@ -43,9 +43,6 @@
 [submodule "old/bitag-secure-routing-2021"]
 	path = old/bitag-secure-routing-2021
 	url = git@github.com:bitag-twg-org/secure-routing.git
-[submodule "netrics-wifi"]
-	path = netrics-wifi
-	url = git@github.com:chicago-cdac/netrics-wifi.git
 [submodule "vc-autoencoder"]
 	path = vc-autoencoder
 	url = git@github.com:junchenj/Autoencoder-Videoconference-V2.git
@@ -613,9 +610,6 @@
 [submodule "meeting-notes"]
 	path = meeting-notes
 	url = git@github.com:noise-lab/meeting-notes.git
-[submodule "nsf-cps-eager-2023"]
-	path = nsf-cps-eager-2023
-	url = git@github.com:noise-lab/nsf-cps-eager-2023.git
 [submodule "big-ideas-2023"]
 	path = old/big-ideas-2023
 	url = git@github.com:chicago-cdac/big-ideas-2023.git
