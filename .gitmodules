@@ -646,3 +646,6 @@
 [submodule "ftselect-nsdi-2023"]
 	path = ftselect-nsdi-2023
 	url = git@github.com:stanford-esrg/ftselect-paper.git
+[submodule "net-diffusion-sigmetrics"]
+	path = net-diffusion-sigmetrics
+	url = git@github.com:noise-lab/NetDiffusion.git
