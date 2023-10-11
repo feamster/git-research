@@ -634,3 +634,12 @@
 [submodule "nsf-adaptive-models-2023"]
 	path = nsf-adaptive-models-2023
 	url = git@github.com:noise-lab/nsf-adaptive-models-2023.git
+[submodule "nsf-cps-eager-2023"]
+	path = nsf-cps-eager-2023
+	url = git@github.com:noise-lab/nsf-cps-eager-2023.git
+[submodule "tprc-latency-2023"]
+	path = tprc-latency-2023
+	url = git@github.com:noise-lab/2023-tprc-latency-sampling.git
+[submodule "ftselect-nsdi-2023"]
+	path = ftselect-nsdi-2023
+	url = git@github.com:stanford-esrg/ftselect-paper.git
