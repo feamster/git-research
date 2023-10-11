@@ -634,14 +634,6 @@
 [submodule "nsf-adaptive-models-2023"]
 	path = nsf-adaptive-models-2023
 	url = git@github.com:noise-lab/nsf-adaptive-models-2023.git
-<<<<<<< HEAD
-[submodule "nsf-cps-eager-2023"]
-	path = nsf-cps-eager-2023
-	url = git@github.com:noise-lab/nsf-cps-eager-2023.git
-[submodule "tprc-latency-2023"]
-	path = tprc-latency-2023
-	url = git@github.com:noise-lab/2023-tprc-latency-sampling.git
-=======
 [submodule "net-diffusion"]
 	path = net-diffusion-hotnets
 	url = git@github.com:noise-lab/net-diffusion.git
@@ -651,7 +643,6 @@
 [submodule "broadband-tech-overview"]
 	path = broadband-tech-overview
 	url = git@github.com:bitag-twg-org/broadband-tech-overview.git
->>>>>>> 735228194144d8a9e921687165f092b6e8854542
 [submodule "ftselect-nsdi-2023"]
 	path = ftselect-nsdi-2023
 	url = git@github.com:stanford-esrg/ftselect-paper.git
