@@ -658,3 +658,6 @@
 [submodule "cisco-2024"]
 	path = cisco-2024
 	url = git@github.com:noise-lab/cisco-2024.git
+[submodule "gfweb-usenix-2023"]
+	path = gfweb-usenix-2023
+	url = git@github.com:InternetCensorship/GFWeb-paper.git
