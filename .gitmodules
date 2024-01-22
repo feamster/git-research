@@ -664,3 +664,6 @@
 [submodule "FACCTS2024"]
 	path = FACCTS2024
 	url = git@github.com:wontoniii/FACCTS2024.git
+[submodule "nsf-hnds-crawler"]
+	path = nsf-hnds-crawler
+	url = git@github.com:stanford-esrg/2024-hnds-i-web-crawling.git
