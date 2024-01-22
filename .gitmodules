@@ -661,3 +661,6 @@
 [submodule "gfweb-usenix-2023"]
 	path = gfweb-usenix-2023
 	url = git@github.com:InternetCensorship/GFWeb-paper.git
+[submodule "FACCTS2024"]
+	path = FACCTS2024
+	url = git@github.com:wontoniii/FACCTS2024.git
